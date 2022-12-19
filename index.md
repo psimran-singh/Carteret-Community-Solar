@@ -4,6 +4,12 @@ Community solar is a ambitious attempt to tackle the issue of inequality in acce
 
 This project hopes to map out current installations in Carteret, NJ which can have a part of their capacity designated to serve the community, as well as non-residential land parcels that have significant enough roof space and appropriate interconnectivity ability to allow for new projects.
 
+<iframe src="Renter Map Final.png" height="2000" width="1000"></iframe>
+<iframe src="Income Map Final.png" height="2000" width="1000"></iframe>
+
 <iframe src="Carteret.html" height="1000" width="1000"></iframe>
 
 You can expore the map [as its own webpage here](Carteret.html)
+
+
+

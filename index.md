@@ -19,20 +19,22 @@ As expected dense urban areas like Jersey City/Hoboken, Bayonne, Paterson, the O
 ### Community Solar Where?
 Finding customers is only the first part of the problem. In order to build a community solar project a developer will also need a suitable site. Carteret is a good candidate for community solar given the expansive warehouses that make up the commercial parts of town. 
 
-
+![Warehouses](/Carteret-Community-Solar/Slide2.png)
 
 There are also plenty of large existing solar installations which can be reallocated to provide electricity to the community solar program. 
 
-However, the major obstacle for solar developers in Carteret is hosting capacity. PSE&G power lines have a set amount of capacity that they can accommodate. Given the large quantity of existing projects in Carteret, there is very little capacity for additional projects in Carteret. Most of the town has <10 kW of capacity remaining while some of the eastern part of town have between 10-1,000 kW. See below:
+![Amazon EWR9](/Carteret-Community-Solar/Slide3.png)
+![Existing Installations](/Carteret-Community-Solar/Slide4.png)
+
+However, the major obstacle for solar developers in Carteret is hosting capacity. PSE&G power lines have a set amount of capacity that they can accommodate. Given the large quantity of existing projects in Carteret, there is very little capacity for additional projects in Carteret. Most of the town has <10 kW of capacity remaining while some of the eastern part of town have between 10-1,000 kW.
+
+![Existing Installations](/Carteret-Community-Solar/Slide5.png)
 
 Until the hosting capacity problem is solved (i.e. lines are upgraded and the grid is modernized), new installations have to be limited to areas with yellow dots on them. The webmap below seeks to highlight potential sites for community solar including:
 1.	Existing sites which can allocate up to 5MW (5,000 kW) towards the community solar program (orange pop-ups)
-2.	Non-residential parcels with significant rooftop space (>3,000 sq. ft.) that are in an area with available hosting capacity (highlighted in green)
+2.	Non-residential parcels with significant rooftop space (>3,000 sq. ft.) that are in an area with available hosting capacity (highlighted in green)  
+
 Explore the map below to see possible sites to make Carteret a strong contributor to the NJ Community Solar Program: 
-
-
-
-
 
 <iframe src="Carteret.html" height="1000" width="1000"></iframe>
 

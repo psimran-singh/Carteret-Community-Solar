@@ -42,7 +42,7 @@ Explore the map below to see possible sites to make Carteret a strong contributo
 
 You can explore the map [as its own webpage here](Carteret.html).  
 
-<details><summary>Data Sources</summary>
+### Data Sources
 The following datasets were used in this analysis:
 
 1. NJ Clean Energy Solar Installations Dataset
@@ -86,4 +86,3 @@ The following datasets were used in this analysis:
             - Provided by NJDEP Bureau of GIS.
             - Created on March 29, 2012. These service areas do not change very often and it is likely that the current is still the same.
             - Downaloaded as a .geojson file, limited to PSE&G, and used to clip Census data for static maps.
-</details>

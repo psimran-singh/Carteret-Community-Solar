@@ -1,4 +1,4 @@
-# Carteret Solar Adoption and Prospect for Community Solar
+# Carteret, New Jersey - Potential for Community Solar
 
 ### What is Community Solar?
 Community solar is an ambitious attempt to tackle the issue of inequality in access to cheap renewable energy. While wealthier homeowners may be able to afford the significant upfront cost of installing rooftop solar, low-to-moderate income households are often left behind in the transition to green energy. Community solar allows installations on commercial, public, non-profit buildings to provide low-to-moderate income households in their communities with the savings associated with green energy production.  

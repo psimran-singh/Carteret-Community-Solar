@@ -1,16 +1,42 @@
-## Carteret Solar Adoption and Prospect for Community Solar
+# Carteret Solar Adoption and Prospect for Community Solar
 
-Community solar is a ambitious attempt to tackle the issue of inequality in access to cheap renewable energy. While wealthier homeowners may be able to afford the significant upfront cost of installing rooftop solar, low-to-moderate income households are often left behind in the transition to green energy. Community solar allows installations on commercial, public, non-profit buildings to serve low-to-moderate income housheold in their communities with the savings associated with utilizing solar energy. 
+### What is Community Solar?
+Community solar is an ambitious attempt to tackle the issue of inequality in access to cheap renewable energy. While wealthier homeowners may be able to afford the significant upfront cost of installing rooftop solar, low-to-moderate income households are often left behind in the transition to green energy. Community solar allows installations on commercial, public, non-profit buildings to provide low-to-moderate income households in their communities with the savings associated with green energy production.  
 
-This project hopes to map out current installations in Carteret, NJ which can have a part of their capacity designated to serve the community, as well as non-residential land parcels that have significant enough roof space and appropriate interconnectivity ability to allow for new projects.
+Read more about it [here](https://njcleanenergy.com/files/file/CI%20Program%20Literature/FY20%20Brochures/Community%20Solar%2011_9_19%20approved.pdf)  
+
+Community solar is especially beneficial to renters, who are victim to a split incentive problem with their landlords. Since tenants pay their own electricity bills, landlords are not incentivized to make large investments like rooftop solar to lower their energy costs. Coupled with logistical issues like installing solar panels in dense urban areas or apartment buildings with HVAC equipment on their roofs, this leaves typically lower-income renters without access to cheap renewable energy. Community solar would allow these households to buy cheap energy from projects within their utility service area, all accounted for virtually through their usual electricity bills. Project developers can sell excess energy production through the Community Solar Program and enjoy additional incentives from the State.  
+This analysis will focus on Carteret, NJ, a small commercial town in between New Brunswick and Newark under the PSE&G utility service area. Given its location near key ports like Elizabeth, Carteret has become a hub for the warehousing and logistics industries. In the last 10-15 years expansive warehouses have been built throughout Carteret, many of which already have solar on their roofs. There is significant potential to utilize the remaining rooftop area for community solar to serve low-income households anywhere within the PSE&G utility service area.  
+
+### Community Solar for Who?
+First, let’s examine the demand side of the equation. It is important to determine where there is the greatest need for a Community Solar Program, and where project developers may focus their efforts when signing up customers. Neighborhoods with high proportions of rented housing units and areas of low income are good candidates for community solar. Energy costs make up a large part of a low-income household’s budget. Relieving this financial burden through community solar has a positive economic effect on low-income communities while advancing green energy expansion. In the figures below, % Housing Units that are Renter Occupied and Median Household Income are mapped for the PSE&G Utility Service Area by Census Tract. Carteret is highlighted in green outline.    
 
 ![Percent Renter Map](/Carteret-Community-Solar/Renter Map Final.png)
 ![Percent Renter Map](/Carteret-Community-Solar/Income Map Final.png)
 
+As expected dense urban areas like Jersey City/Hoboken, Bayonne, Paterson, the Oranges, Elizabeth, Perth Amboy, Trenton, and Camden have high rates of renters and low median incomes. These areas are also poorly suited for rooftop solar due to density and building types. If a project developer wanted to build a community solar project in Carteret, they may look to these areas to find potential customers.  
+
+### Community Solar Where?
+Finding customers is only the first part of the problem. In order to build a community solar project a developer will also need a suitable site. Carteret is a good candidate for community solar given the expansive warehouses that make up the commercial parts of town. 
+
+
+
+There are also plenty of large existing solar installations which can be reallocated to provide electricity to the community solar program. 
+
+However, the major obstacle for solar developers in Carteret is hosting capacity. PSE&G power lines have a set amount of capacity that they can accommodate. Given the large quantity of existing projects in Carteret, there is very little capacity for additional projects in Carteret. Most of the town has <10 kW of capacity remaining while some of the eastern part of town have between 10-1,000 kW. See below:
+
+Until the hosting capacity problem is solved (i.e. lines are upgraded and the grid is modernized), new installations have to be limited to areas with yellow dots on them. The webmap below seeks to highlight potential sites for community solar including:
+1.	Existing sites which can allocate up to 5MW (5,000 kW) towards the community solar program (orange pop-ups)
+2.	Non-residential parcels with significant rooftop space (>3,000 sq. ft.) that are in an area with available hosting capacity (highlighted in green)
+Explore the map below to see possible sites to make Carteret a strong contributor to the NJ Community Solar Program: 
+
+
+
+
 
 <iframe src="Carteret.html" height="1000" width="1000"></iframe>
 
-You can expore the map [as its own webpage here](Carteret.html)
+You can explore the map [as its own webpage here](Carteret.html)
 
 
 
